@@ -1,0 +1,22 @@
+<nav>
+  <div class="nav-wrapper indigo">
+  	<div class="container">
+  		<a href="#" class="brand-logo">Logo</a>
+  		<a href="#" class="sidebar-triger" data-target="mobile-links">
+  			<i class="material-icons">menu</i>
+  		</a>
+  		
+	    <ul id="nav-mobile" class="right hide-on-med-and-down">
+	      <li><a href="">About Deriq</a></li>
+	      <li><a href=""><i class="material-icons left">view_module</i>Gallery</a></li>
+	      <li><a href="">Contact </a></li>
+	    </ul>
+  	</div>
+  </div>
+</nav>
+
+<ul class="sidenav" id="mobile-links">
+  <li><a href="">About Deriq</a></li>
+  <li><a href=""><i class="material-icons left">view_module</i>Gallery</a></li>
+  <li><a href="">Contact </a></li>
+</ul>
