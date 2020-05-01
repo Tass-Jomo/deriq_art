@@ -1,7 +1,7 @@
 <nav>
   <div class="nav-wrapper indigo">
   	<div class="container">
-  		<a href="#" class="brand-logo">Logo
+  		<a href="#" class="brand-logo">Art Deriq
   			<i class="material-icons red-text">warning</i>
   		</a>
   		<a href="#" class="sidenav-trigger" data-target="mobile-links">
