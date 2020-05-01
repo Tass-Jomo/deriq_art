@@ -1,60 +1,39 @@
-<section class="hero">
- <div class="parallax-container">
-      <div class="Parallax">
-        <img src="images/amg.jpg" class="responsive-img"></div>
-    </div>
-    <div class="section white">
-      <div class="row container">
-        <h2 class="header">Parallax</h2>
-        <p class="grey-text text-darken-3 lighten-3">Parallax is an effect where the background content or image in this case, is moved at a different speed than the foreground content while scrolling.</p>
-      </div>
-    </div>
+<section class="section">
+  <div class="page">
+      <img class="activator" src="images/lamar.jpg">
+  </div>           
 </section>
 
-<section class="section">
-  <div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="images/mercedes.jpg">
-    </div>
-    <%# <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-      <p><a href="#">This is a link</a></p>
-    </div>
-    <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-      <p>Here is some more information about this product that is only revealed once clicked on.</p>
-    </div> %>
-  </div>
-            
-</section>
-<section class="hero">
+<section class="drawing">
  <div class="col s12 m7">
-    <h2 class="header">Drawings</h2>
+    
     <div class="card horizontal">
       <div class="card-image">
         <img class="activator" src="images/v4o.jpg">
       </div>
       <div class="card-stacked">
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
+          <h2 class="header">Drawings</h2>
+          <p>This is where i do my drawings. Click the button below for more usefull information.</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="#">Click</a>
         </div>
       </div>
     </div>
   </div>
 </section>
-<section class="hero">
+<section class="tatoo">
   <div class="col s12 m7">
-    <h2 class="header">Tattoo</h2>
+    
     <div class="card horizontal">
       <div class="card-stacked">
         <div class="card-content">
-          <p>I am a very simple card. I am good at containing small bits of information.</p>
+          <h2 class="header">Tattoo</h2>
+          <p>I also do some mad ink on the other hand. As usual click the button below to see more</p>
         </div>
         <div class="card-action">
-          <a href="#">This is a link</a>
+          <a href="#">Click</a>
         </div>
       </div>
       <div class="card-image">
